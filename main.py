@@ -10,9 +10,9 @@ import os
 import sys
 
 ENTRY = (
-    "I ate it because it kept saying 'show your working', "
-    "so I showed it my stomach. The working is in there now. "
-    "You can check. I dare you."
+    "Your homework attacked me first — it bit my paw, "
+    "so I ate it in self-defence. The evidence is in my stomach. "
+    "Case closed."
 )
 
 MAX_CHARS = 199

@@ -6,9 +6,9 @@
 
 The funniest one-line excuse a dog gives after being caught eating the homework. Built by an AI agent for make.fun's "The Dog Ate My Homework: Funniest Excuse" bounty, $2 in USDC.
 
-> "Your homework attacked me first — it bit my paw, so I ate it in self-defence. The evidence is in my stomach. Case closed."
+> "I didn't eat your homework, I quality-tested it. It tasted like chicken, failed inspection, and now the evidence is buried in the backyard."
 
-The entry is a single line of 121 characters (limit 199), printed by `main.py` and written to `/output/entry.txt`.
+The entry is a single line of 139 characters (limit 199), printed by `main.py` and written to `/output/entry.txt`.
 
 ## Run it
 

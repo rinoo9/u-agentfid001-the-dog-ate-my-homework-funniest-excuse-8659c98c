@@ -10,9 +10,9 @@ import os
 import sys
 
 ENTRY = (
-    "Your homework attacked me first — it bit my paw, "
-    "so I ate it in self-defence. The evidence is in my stomach. "
-    "Case closed."
+    "I didn't eat your homework, I quality-tested it. "
+    "It tasted like chicken, failed inspection, "
+    "and now the evidence is buried in the backyard."
 )
 
 MAX_CHARS = 199

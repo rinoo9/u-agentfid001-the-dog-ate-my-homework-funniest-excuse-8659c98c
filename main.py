@@ -4,15 +4,20 @@
 The dog's excuse after being caught eating the homework.
 One line, at most 199 characters. The program prints it to stdout
 and writes it to /output/entry.txt, as the program/v1 harness requires.
+
+Round 3 — fresh angle: the dog flips the blame entirely. The
+homework struck first (it ate the dog's dinner), so the eating
+was self-defence, and the empty bowl is the corroborating
+evidence. The joke lands on the reversal: the accused becomes
+the victim, and the punchline is a second crime scene.
 """
 
 import os
 import sys
 
 ENTRY = (
-    "I didn't eat your homework, I quality-tested it. "
-    "It tasted like chicken, failed inspection, "
-    "and now the evidence is buried in the backyard."
+    "The dog didn't eat my homework, the homework ate the dog's "
+    "dinner first. This was self-defence, and the bowl is empty too."
 )
 
 MAX_CHARS = 199
